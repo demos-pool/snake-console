@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/main.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/main.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/main.cpp"
+},
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/snake.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/snake.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/snake.cpp"
+},
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/frame.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/frame.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/frame.cpp"
+},
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/game.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/game.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/game.cpp"
+},
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/const.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/const.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/const.cpp"
+},
+{
+  "directory": "/Users/chenweibin/projects/demos/snake-console/build",
+  "command": "/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=c++11 -o CMakeFiles/snake-console.dir/src/keyboard.cpp.o -c /Users/chenweibin/projects/demos/snake-console/src/keyboard.cpp",
+  "file": "/Users/chenweibin/projects/demos/snake-console/src/keyboard.cpp"
+}
+]

@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"*.html": "html",
+		"utility": "cpp",
+		"string": "cpp",
+		"thread": "cpp",
+		"iostream": "cpp",
+		"iosfwd": "cpp",
+		"chrono": "cpp",
+		"map": "cpp",
+		"vector": "cpp"
+	}
+}
